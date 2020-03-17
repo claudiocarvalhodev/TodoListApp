@@ -21,8 +21,13 @@ class CategoryViewController: SwipeTableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        configureNavigationBar()
         loadCategories()
         tableView.separatorStyle = .none
+        let logo = UIImage(named: "todolist-word.png")
+        let imageView = UIImageView(image:logo)
+        imageView.setDimensions(height: 20, width: 100)
+        self.navigationItem.titleView = imageView
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -66,6 +71,10 @@ class CategoryViewController: SwipeTableViewController {
     func loadCategories() {
         categories = realm.objects(Category.self)
         tableView.reloadData()
+    }
+    
+    func configureNavigationBar() {
+        navigationController?.navigationBar.barStyle = .black
     }
     
     // MARK: - TableView Datasource Methods
