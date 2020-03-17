@@ -13,7 +13,7 @@
 
 ## About
 
-TodoList is an app that lists tasks and allows the user to define subtasks to make their day more productive with the possibility to delete and search between subtasks in addition to storing user data using Realm..
+TodoList is an app that lists tasks and allows the user to define subtasks to make their day more productive with the possibility to delete and search between subtasks in addition to storing user data using Realm.
 
 <p align="center">
 <img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Presentation/main.png" alt="TodoList iOS App"/>
