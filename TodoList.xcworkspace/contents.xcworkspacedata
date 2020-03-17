@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TodoList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Screenshots"
+      name = "Screenshots">
+      <Group
+         location = "group:Portrait"
+         name = "Portrait">
+         <FileRef
+            location = "group:screenshot-08.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-09.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-04.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-05.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-07.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-06.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-02.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-03.png">
+         </FileRef>
+         <FileRef
+            location = "group:screenshot-01.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Presentation"
+         name = "Presentation">
+         <FileRef
+            location = "group:main.png">
+         </FileRef>
+         <FileRef
+            location = "group:header-presentation.png">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
