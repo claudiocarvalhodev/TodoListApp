@@ -1,5 +1,5 @@
 <p align="center">
-<img src="#" alt="TodoList iOS App"/>
+<img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Presentation/header-presentation.png" alt="TodoList iOS App"/>
 </p>
 
 # TodoList iOS App
@@ -16,7 +16,7 @@
 TodoList is an app that lists tasks and allows the user to define subtasks to make their day more productive with the possibility to delete and search between subtasks in addition to storing user data using Realm..
 
 <p align="center">
-<img src="#" alt="TodoList iOS App"/>
+<img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Presentation/main.png" alt="TodoList iOS App"/>
 </p>
 
 ## Description
@@ -24,6 +24,7 @@ Below is an overview of the functionality implemented:
 
 - Users can create and delete a task.
 - Tasks can to have subtasks.
+- Users can check completed activities with a checkmark.
 - Saving data.
 
 ### Technical functionality
@@ -51,10 +52,19 @@ Below is an overview of the functionality implemented:
 
 <table style="width:100%">
   <tr>
-  <td><img src="#" alt="News" width=400 height=375/></td>
-  <td><img src="#" alt="News" width=400 height=375/></td>
-  <td><img src="#" alt="News" width=400 height=375/></td>
-  <td><img src="#" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-01.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-02.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-03.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-04.png" alt="News" width=400 height=375/></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-05.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-06.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-07.png" alt="News" width=400 height=375/></td>
+  <td><img src="https://github.com/claudiocarvalhodev/TodoListApp/blob/develop/Screenshots/Portrait/screenshot-08.png" alt="News" width=400 height=375/></td>
   </tr>
 </table>
 
